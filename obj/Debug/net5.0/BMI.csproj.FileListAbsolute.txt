@@ -1,0 +1,16 @@
+R:\Training\C#\BMI\bin\Debug\net5.0\BMI.exe
+R:\Training\C#\BMI\bin\Debug\net5.0\BMI.deps.json
+R:\Training\C#\BMI\bin\Debug\net5.0\BMI.runtimeconfig.json
+R:\Training\C#\BMI\bin\Debug\net5.0\BMI.runtimeconfig.dev.json
+R:\Training\C#\BMI\bin\Debug\net5.0\BMI.dll
+R:\Training\C#\BMI\bin\Debug\net5.0\ref\BMI.dll
+R:\Training\C#\BMI\bin\Debug\net5.0\BMI.pdb
+R:\Training\C#\BMI\obj\Debug\net5.0\BMI.csproj.AssemblyReference.cache
+R:\Training\C#\BMI\obj\Debug\net5.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+R:\Training\C#\BMI\obj\Debug\net5.0\BMI.AssemblyInfoInputs.cache
+R:\Training\C#\BMI\obj\Debug\net5.0\BMI.AssemblyInfo.cs
+R:\Training\C#\BMI\obj\Debug\net5.0\BMI.csproj.CoreCompileInputs.cache
+R:\Training\C#\BMI\obj\Debug\net5.0\BMI.dll
+R:\Training\C#\BMI\obj\Debug\net5.0\ref\BMI.dll
+R:\Training\C#\BMI\obj\Debug\net5.0\BMI.pdb
+R:\Training\C#\BMI\obj\Debug\net5.0\BMI.genruntimeconfig.cache
