@@ -34,6 +34,7 @@ namespace BMI
         }
         public string calci()
         {
+            Console.WriteLine("value");
             return("value");
         }
         public void checkMyBMI() {
