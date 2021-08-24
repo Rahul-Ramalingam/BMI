@@ -22,21 +22,6 @@ namespace BMI
             return bmi;
         }
 
-        public int display()
-        {
-            return (12003);
-        }
-
-        public string display2()
-        {
-            return "rahul";
-
-        }
-        public string calci()
-        {
-            Console.WriteLine("value");
-            return("value");
-        }
         public void checkMyBMI() {
             double bmi = calculate(weight, height);
             if (bmi <19 & gender == "f") {
