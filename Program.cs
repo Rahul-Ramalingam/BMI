@@ -70,7 +70,6 @@ namespace BMI
             string gender = Console.ReadLine();
             CalculateBmi myhealth = new CalculateBmi(weight,height,gender);
             myhealth.checkMyBMI();
-            myhealth.display();
         }
     }
 }
