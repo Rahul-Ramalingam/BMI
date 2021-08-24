@@ -26,6 +26,12 @@ namespace BMI
         {
             return (12003);
         }
+
+        public string display2()
+        {
+            return "rahul";
+
+        }
         public void checkMyBMI() {
             double bmi = calculate(weight, height);
             if (bmi <19 & gender == "f") {
